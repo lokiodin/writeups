@@ -497,7 +497,7 @@ And finally we get this link `/1410e53b7550c466c76fc7268a8160ae`.
 #### And a login page
 We find a login page :
 
-![Login page](./web3-1410e53b7550c466c76fc7268a8160ae/login_page.png)
+![Login page](./pascal/web3-1410e53b7550c466c76fc7268a8160ae/login_page.png)
 
 When we search in the source code for any things we see `onclick` with this script :
 ```js
