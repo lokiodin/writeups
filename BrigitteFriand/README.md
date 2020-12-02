@@ -1,11 +1,5 @@
 # Challenge Cybersec Brigitte Friang by DGSE x ESIEE
 
-> Romain BOIREAU
->
-> E5FRC at ESIEE
->
-> Apprentice Network and Security Architect at BYCN
-
 Cybersec challenge organized by DGSE and ESIEE Paris.
 Date of launch : 24/10/2020 0h01
 Date of end : 11/11/2020
