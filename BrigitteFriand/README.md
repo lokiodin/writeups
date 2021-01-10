@@ -636,6 +636,6 @@ Didn't success on this one too.
 
 
 ## Conclusion
-
+After theses challenges we have access to a platform where we can find others challenge more like a Jeopardy ctf.
 For one of my first CTF, I loved it, the challenges were very interesting. 
 
